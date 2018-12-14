@@ -123,3 +123,10 @@ Summary
 * [Quora](http://www.quora.com/What-are-the-best-open-source-libraries-available-for-Android)
 * [TechnoTalkative](http://www.technotalkative.com/lazy-android-part-7-useful-tools/)
 * [GameDev](http://gamedev.stackexchange.com/a/1821)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
